@@ -1,0 +1,28 @@
+h1 {
+    color: darkcyan;
+} 
+
+h2{
+    color: white
+}
+h3{
+    color: white
+}
+h2{
+    background-color: darkcyan
+}
+h3{
+    background-color: darkcyan
+}
+h3{
+    font-size: 70px
+}
+h4{
+    background-color: darkcyan
+}
+h4{
+    color: white
+}
+h2{
+    margin: 4px 
+}
